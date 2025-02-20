@@ -1,4 +1,4 @@
-# [data-stories-course-2025](github.com/data-stories-itp/course-2025)
+# [course-2025-03](https://github.com/data-stories-itp/course-2025-03)
 
 # Data Storytelling for Memory Making and Social Resilience
 
@@ -7,9 +7,11 @@ Inspired by
 
 ## Lecture
 
-- Location: 370 Jay Street, Room Room 311 Loc: Brooklyn Campus
-- 10/29/2024 - 12/10/2024 12:10 PM - 2:40 PM Tu
-- ITPG-GT 2379 004
+- Topics in ITP (11425) - Data Storytelling for Memory (Lecture)
+- ITPG-GT 2379 006
+- 03/17/2025 - 05/5/2025
+- 3:20 PM - 5:50 PM M
+- 370 Jay St Room 411 Loc: Brooklyn Campus
 
 Instructors: John Henry Thompson; Shindy Johnson
 
