@@ -14,7 +14,7 @@ Inspired by
 - 3:20 PM - 5:50 PM M
 - 370 Jay St Room 411 Loc: Brooklyn Campus
 
-Instructors: John Henry Thompson; Shindy Johnson
+Instructors: John Henry Thompson; Shindy M. Johnson
 
 ## Course Description
 
