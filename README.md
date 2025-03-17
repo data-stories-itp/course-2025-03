@@ -116,7 +116,13 @@ Students will be graded on
 [The COVID-19 Impact Project Dashboard](https://itp.nyu.edu/covid19impactproject/covid19-dashboard/)
 \[[Inner Link](https://jht1493.net/COVID-19-Impact/Dashboard/a0/?hide=1)\]
 
+### Data Visualization Tools and Inspiration
+
 [Tableau for Students](https://www.tableau.com/university-students)
+
+[Flourish Studio](https://flourish.studio/)
+
+[Raw Graphs](https://www.rawgraphs.io/)
 
 [Observable](https://observablehq.com/)
 
