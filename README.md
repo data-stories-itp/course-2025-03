@@ -68,7 +68,7 @@ Students will participate in lectures, research, discussion groups, hands on des
 
 <!-- Data for Community Driven Mourning and Memorialization. Assignment: impact of the pandemic on you or your community. -->
 
-**[Week 2 (2025/03/31)](week/02.md)** Lecture: Data literacy and accessible tools for data storytelling. COntemporary issues of public data. The art of humanizing data. How do open source data projects work and how can we use/contribute to open source data projects?
+**[Week 2 (2025/03/31)](week/02.md)** Lecture: Data literacy and accessible tools for data storytelling. Contemporary issues of public data. The art of humanizing data. How do open source data projects work and how can we use/contribute to open source data projects?
 
 <!-- Other Open Source Data Projects. -->
 
