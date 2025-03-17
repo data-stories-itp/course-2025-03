@@ -16,6 +16,9 @@ Inspired by
 
 Instructors: John Henry Thompson; Shindy M. Johnson
 
+- [Office Hours JHT](https://calendar.app.google/EWigTzkMnFDq7gFj6)
+- Office Hours SMJ (TBD)
+
 ## Course Description
 
 This course will use the open source [The COVID-19 Impact Project](https://itp.nyu.edu/covid19impactproject/) and current events as entry points to explore humanizing data on systemic inequity and injustice starting with a hyper local focus
@@ -73,9 +76,8 @@ Students will participate in lectures, research, discussion groups, hands on des
 <!-- Other Open Source Data Projects. -->
 
 **[Week 3 (2025/04/07)](week/03.md)** Lecture: Telling stories using data. Finding the stories in data. NYC COVID-19 data vizualization. Multimodal data storytelling. Considerations for designing data visualizations. Decoding data visualizations.
+
 <!-- Our visiting artist is Ekene Ijeoma [Studio Ijeoma](https://studioijeoma.com/) Ekene Ijeoma is an artist, Assistant Professor of Media Arts and Sciences at MIT, and Director of Poetic Justice Group. -->
-
-
 
 <!-- Early Pioneers of Data Visualization. -->
 
