@@ -8,7 +8,7 @@ Inspired by
 
 ## Lecture
 
-- Topics in ITP (11425) - Data Storytelling for Memory (Lecture)
+- Topics in ITP (11425) - Data Storytelling for Memory Making and Social Resilience (Lecture)
 - ITPG-GT 2379 006
 - 03/17/2025 - 05/5/2025
 - 3:20 PM - 5:50 PM M
@@ -18,7 +18,7 @@ Instructors: John Henry Thompson; Shindy M. Johnson
 
 ## Course Description
 
-This course will use the open source [The COVID-19 Impact Project](https://itp.nyu.edu/covid19impactproject/) as an entry point to explore humanizing data on systemic inequity and injustice starting with a hyper local focus
+This course will use the open source [The COVID-19 Impact Project](https://itp.nyu.edu/covid19impactproject/) and current events as entry points to explore humanizing data on systemic inequity and injustice starting with a hyper local focus
 
 In this course we will:
 
@@ -32,21 +32,17 @@ In this course we will:
 
 ● _Develop_ new data stories according to student interest
 
-● _Clarify_ pandemic stories through data disaggregation
+● _Clarify_ pandemic and other data rich stories through data disaggregation
 
 ● _Explore and invent_ creative uses of data for advocacy and change.
 
 ● _Review_ other data-centric open source projects for the public good and discuss the questions they are trying to answer or problems they are trying to solve.
 
-<!--
-
 ● Discover how data flows from public github repositories and tools needed to visualize the data.
 
-● Examine and draw inspiration from historical and contemporary data visualizations developed by advocates for social justice and the public good. -->
+● Examine and draw inspiration from historical and contemporary data visualizations developed by advocates for social justice and the public good.
 
-<!--
-
-● Use data visualization as a scaffold to explore ways to support community driven mourning and memorialization after mass death events. -->
+● Use data visualization as a scaffold to explore ways to support community driven mourning and memorialization after mass death events.
 
 Students can choose to participate as creatives, artists, javascript coders, p5js explorers, UI/UX designers, citizen journalists, data science explorers or social justice advocates.
 
@@ -58,7 +54,7 @@ Students can choose to participate as creatives, artists, javascript coders, p5j
 
 ● Storytelling with and from Data
 
-● Data storytelling as a scaffold to support grief, ritual and memorialization after mass death events
+● Data storytelling as a Scaffold to Support Memory
 
 \*\* _Students wishing to pursue their final projects beyond the class will be provided with information about resources at NYU for supporting student projects that amplify underrepresented narratives._
 
@@ -76,8 +72,8 @@ Students will participate in lectures, research, discussion groups, hands on des
 
 <!-- Other Open Source Data Projects. -->
 
-**[Week 3 (2025/04/07)](week/03.md)** Lecture and Guest Speaker:
-Our visiting artist is Ekene Ijeoma [Studio Ijeoma](https://studioijeoma.com/) Ekene Ijeoma is an artist, Assistant Professor of Media Arts and Sciences at MIT, and Director of Poetic Justice Group.
+**[Week 3 (2025/04/07)](week/03.md)** Lecture:
+<!-- Our visiting artist is Ekene Ijeoma [Studio Ijeoma](https://studioijeoma.com/) Ekene Ijeoma is an artist, Assistant Professor of Media Arts and Sciences at MIT, and Director of Poetic Justice Group. -->
 
 Telling stories using data. Finding the stories in data. NYC COVID-19 data vizualization. Multimodal data storytelling. Considerations for designing data visualizations. Decoding data visualizations.
 
