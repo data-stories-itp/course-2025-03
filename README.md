@@ -68,14 +68,14 @@ Students will participate in lectures, research, discussion groups, hands on des
 
 <!-- Data for Community Driven Mourning and Memorialization. Assignment: impact of the pandemic on you or your community. -->
 
-**[Week 2 (2025/03/31)](week/02.md)** Lecture: Data literacy and accessible tools for data storytelling. The art of humanizing data. How do open source data projects work and how can we use/contribute to open source data projects?
+**[Week 2 (2025/03/31)](week/02.md)** Lecture: Data literacy and accessible tools for data storytelling. COntemporary issues of public data. The art of humanizing data. How do open source data projects work and how can we use/contribute to open source data projects?
 
 <!-- Other Open Source Data Projects. -->
 
-**[Week 3 (2025/04/07)](week/03.md)** Lecture:
+**[Week 3 (2025/04/07)](week/03.md)** Lecture: Telling stories using data. Finding the stories in data. NYC COVID-19 data vizualization. Multimodal data storytelling. Considerations for designing data visualizations. Decoding data visualizations.
 <!-- Our visiting artist is Ekene Ijeoma [Studio Ijeoma](https://studioijeoma.com/) Ekene Ijeoma is an artist, Assistant Professor of Media Arts and Sciences at MIT, and Director of Poetic Justice Group. -->
 
-Telling stories using data. Finding the stories in data. NYC COVID-19 data vizualization. Multimodal data storytelling. Considerations for designing data visualizations. Decoding data visualizations.
+
 
 <!-- Early Pioneers of Data Visualization. -->
 
