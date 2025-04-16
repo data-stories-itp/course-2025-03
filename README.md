@@ -17,7 +17,7 @@ Inspired by
 Instructors: John Henry Thompson; Shindy M. Johnson
 
 - [Office Hours JHT](https://calendar.app.google/EWigTzkMnFDq7gFj6)
-- Office Hours SMJ (TBD)
+- [Office Hours SMJ](https://calendar.app.google/T21AWPEu3Nr3AFqXA)
 
 ## Course Description
 
